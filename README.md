@@ -1,5 +1,5 @@
 # Hello_world
-my name is yash_agrawal
-my age is 21
-my birth date is 7aug1998
+Name: Yash Agrawal  
+Age: 21  
+Birth Date:7 Aug,1998  
 commit
